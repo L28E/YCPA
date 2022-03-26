@@ -9,4 +9,4 @@
     - when the “st” paramater is set to -0.05 there seems to be a lot more reflections of the front face of the grate?
     - Changing the freq changes the wavelength 
 4. Be creative:
-    - Made a lil "C" shaped boxy thing
+    - Made a lil "C" shaped boxy thing with a lip
